@@ -1,0 +1,162 @@
+body{
+    font-family: "Montserrat",sans-serif;
+}
+#title{
+    background-color: #ff4c68;
+    color: white;
+} 
+.container-fluid{
+    padding: 3% 15%;
+}
+h1{
+    font-size: 3em;
+    line-height: 1.5;
+     
+}
+h2{
+    font-family: "Montserrat",sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+/* Navigation bar */
+.navbar{
+    padding: 0 0 4.5rem;
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold; 
+}
+.nav-item{
+    padding: 0 20px 0 20px;
+}
+.nav-link{
+    font-size: 1.5rem;
+    font-family: "Ubuntu";
+}
+
+/* Buttons */
+.download-button{
+    margin: 4% 3% 5% 0;
+    padding: 1% 0%;
+   
+}
+
+/* image */
+.title-image{
+    width: 60%;
+    transform: rotate(30deg);
+}
+.check-image{
+    color: red;
+    font-size: 60px;
+}
+#features{
+    padding: 10% 15%;
+}
+/* feature boxes */
+.inside-text{
+    font-family: sans-serif;
+    width: 60%;
+    text-align: center;
+    margin-left: 1rem;
+}
+.big-text{
+    padding-left: 1rem;
+    
+}
+.inside-icon{
+    color: rgba(253, 0, 0, 0.429); 
+    font-size: 4rem;
+    margin-left: 5.3rem;
+    
+}
+.inside-icon:hover{
+    color: red;
+}
+.inside1-icon{
+    color: rgba(253, 0, 0, 0.429); 
+    font-size: 4rem;
+    margin-left: 9rem;
+
+}
+.inside1-icon:hover{
+    color: red;
+}
+.inside1-text{
+    font-family: sans-serif;
+    width: 60%;
+    text-align: center;
+    margin-left: 4rem;
+}
+
+/*testimonials*/
+#testimonials{
+    text-align: center;
+    color: white;
+    background-color: #ff4c68;
+    
+
+}
+.testi-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+/* press */
+#press{
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.p-image{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+/* carousel */
+.carousel-item{
+    padding: 7% 15%;
+}
+
+/* pricing */
+#pricing{
+    text-align: center;
+    padding: 100px;
+}
+.pricing-card{
+    padding: 3% 2%;
+}
+.card-body{
+    font-family: "Ubuntu";
+}
+
+/* call to action */
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 4% 14%;
+}
+.action{
+    font-size: 3.5rem;
+    line-height: 2;
+    color: white;
+}
+
+/* footer */
+#footer{
+    text-align: center;
+    padding: 8% 14%;
+}
+.footer-icons{
+    font-size: 30px;
+    margin: 5%;
+    color: gray;
+}
+.footer-icons:hover{
+    color: black;
+}
+.footer-text{
+    margin-top: 40px;
+    color: grey;
+}
