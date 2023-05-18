@@ -1,3 +1,9 @@
 .utk{
     color: white;
 }
+@media only screen and (max-width: 767px) {
+    .header.active .container .utk {
+     display: none;
+    background-color: black;
+   }
+ }
